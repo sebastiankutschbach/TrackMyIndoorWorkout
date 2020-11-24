@@ -8,7 +8,7 @@ environment:
 dependencies:
   flutter_blue: ^0.7.2
   e2e: ^0.2.1
-  get: ^3.4.6
+  get: any
   flutter:
     sdk: flutter
 
